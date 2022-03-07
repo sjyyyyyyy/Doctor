@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-5718c36b"],{b75e:function(e,t,n){e.exports=n.p+"img/hesuan.0b87cb45.jpg"},e051:function(e,t,n){"use strict";n.r(t);var c=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,t=e.$createElement,c=e._self._c||t;return c("div",[c("img",{attrs:{width:"100%",src:n("b75e"),alt:""}})])}],s={},u=s,i=n("2877"),a=Object(i["a"])(u,c,r,!1,null,null,null);t["default"]=a.exports}}]);
+//# sourceMappingURL=chunk-5718c36b.05f735e3.js.map
